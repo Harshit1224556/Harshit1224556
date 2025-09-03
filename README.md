@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A dating app Project<br>👯 I’m looking to collaborate on these projects<br>🤝 I’m looking for help with AI/ML Developers<br>🌱 I’m currently learning MERN STACK AND JAVA FULL STACK<br>💬 Ask me about<br>⚡ Fun fact
+🔭 A dating app Project<br>👯 I’m looking to collaborate on these projects<br>🤝 I’m looking for help with AI/ML Developers<br>🌱 I’m currently learning MERN STACK AND JAVA FULL STACK<br>
 
 
 ## 🌐 Socials:
