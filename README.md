@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 A dating app Project<br>👯 I’m looking to collaborate on these projects<br>🤝 I’m looking for help with AI/ML Developers<br>🌱 I’m currently learning MERN STACK AND JAVA FULL STACK<br>
-
-
+>👯 MERN Stack Developer | Working on Innovative Startup Projects
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_04_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit91sharma) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Harshit Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamharshitsharma518@gmail.com) 
 
